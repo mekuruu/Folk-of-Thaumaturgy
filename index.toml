@@ -100,6 +100,11 @@ hash = "1ba4b9de6afd9b70e76adf073dc07b58b6f8ce7d13d37dab6bb1af32f0784d98"
 metafile = true
 
 [[files]]
+file = "mods/etfuturum.pw.toml"
+hash = "79cc505c6f5b21f85fe731736aad7a6ee95fd950d0ad5974a6f559429796347a"
+metafile = true
+
+[[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
