@@ -5,6 +5,46 @@ file = "config/ThaumicTinkerer.cfg"
 hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
+file = "config/etfuturum/blocksitems.cfg"
+hash = "aa4c92a59ac2b407c576e8bda5b8dd0f6b327eae00cc8aa0a811f3676ee235f5"
+
+[[files]]
+file = "config/etfuturum/enchantspotions.cfg"
+hash = "5652719bbf5d6f6bf11deaff8ff04020f12cff14440b3d188ead42954c19b204"
+
+[[files]]
+file = "config/etfuturum/entities.cfg"
+hash = "4b13ead3ac670c20c4e213c190a1d61cf9795ec64a5f54ab08081bd4fe6c0547"
+
+[[files]]
+file = "config/etfuturum/experiments.cfg"
+hash = "ad505b1f52d353270acb4ddf19f9401edd20a6b436286f80d44a717160d39d29"
+
+[[files]]
+file = "config/etfuturum/functions.cfg"
+hash = "4bcbf1fa91b4efd73443e00b78eea439fc8bdb5969a2ccdf70676906fc6e3fee"
+
+[[files]]
+file = "config/etfuturum/mixins.cfg"
+hash = "9e4978abf1ba5d9f159b92187aae3b45d3e1a39bf1711319c253d025d9f0df05"
+
+[[files]]
+file = "config/etfuturum/modcompat.cfg"
+hash = "54c95a83318be9ee787d092850d4a4a6d18aecd56e61fcf16e521f018928c70a"
+
+[[files]]
+file = "config/etfuturum/sounds.cfg"
+hash = "3c51f705f70304b71b132f5fd1d5ea4abca9d4e92ef618a5608e01c2263d3e6c"
+
+[[files]]
+file = "config/etfuturum/tweaks.cfg"
+hash = "ba5757d1974f6da75be362610b7edb64709e24c71dd850a9d90af3c70cb0aa55"
+
+[[files]]
+file = "config/etfuturum/world.cfg"
+hash = "3fd3175749abdb0c8a5d912eb58c6d4243744b028ae53d316b5e97bf2203e474"
+
+[[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
 hash = "a66037092e6b47b166a2d9ba19ffe049e240131ccec980f9d64e33e1d5037dac"
 metafile = true
