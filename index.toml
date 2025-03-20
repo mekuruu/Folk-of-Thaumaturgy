@@ -6,7 +6,7 @@ hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "25877ca69ea02cec5f973013cdf20cde97ea9de19516feaa71cb5927cebe2475"
+hash = "5282344bb9908dcaf822b6e1d7dd56cf404125935ad4f78debd0b5d0ee31254b"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -42,7 +42,7 @@ hash = "ba5757d1974f6da75be362610b7edb64709e24c71dd850a9d90af3c70cb0aa55"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "3fd3175749abdb0c8a5d912eb58c6d4243744b028ae53d316b5e97bf2203e474"
+hash = "927e2b5a5c751ed0d15a9c387a98e191afef68170c8bcc4d6b03473a8b43d734"
 
 [[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
