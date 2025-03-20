@@ -6,7 +6,7 @@ hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "aa4c92a59ac2b407c576e8bda5b8dd0f6b327eae00cc8aa0a811f3676ee235f5"
+hash = "25877ca69ea02cec5f973013cdf20cde97ea9de19516feaa71cb5927cebe2475"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -30,7 +30,7 @@ hash = "9e4978abf1ba5d9f159b92187aae3b45d3e1a39bf1711319c253d025d9f0df05"
 
 [[files]]
 file = "config/etfuturum/modcompat.cfg"
-hash = "54c95a83318be9ee787d092850d4a4a6d18aecd56e61fcf16e521f018928c70a"
+hash = "d683f831953f4ef21f33854a00752ffa26e48961b2d9b2fca4bc08b744d14869"
 
 [[files]]
 file = "config/etfuturum/sounds.cfg"
